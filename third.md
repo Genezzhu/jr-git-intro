@@ -1,1 +1,0 @@
-Third Hello World - JR-102: Set up the second and third file
