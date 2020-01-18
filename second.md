@@ -1,1 +1,1 @@
-Second Changes of Second Hello World! - JRs102: Set up the second and third file
+First & Second Changes of Second Hello World! - JRs102: Set up the second and third file
